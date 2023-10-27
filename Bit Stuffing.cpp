@@ -1,3 +1,6 @@
+// After every 5 consecutive 1s. a 0 is stuffed and vice versa
+
+
 #include <iostream>
 using namespace std;
 
